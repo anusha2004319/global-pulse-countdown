@@ -1,0 +1,8 @@
+{
+  "name": "Global Pulse: Real-Time Interactive Voxel Countdown",
+  "description": "An interactive voxel countdown where each level is powered by real-world data like earthquakes and weather, turning global systems into a playable experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
